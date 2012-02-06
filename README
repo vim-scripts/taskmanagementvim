@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3923
+
+This plugin uses a specific schema. You can you your own schema by easily changing the code if you want.
+
+In fact, I wanted to keep this is as a .vimrc script so that you can easily modify it as per your need. However, plugins and changes to these plugins are easier to manage than loose scripts. Hence this attempt.
+
+I will still encourage you glance over the code and make changes as per your need.
